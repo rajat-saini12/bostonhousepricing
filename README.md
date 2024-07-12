@@ -14,6 +14,9 @@ The target variable is the median value of owner-occupied homes (MEDV).
 <br>
 Data preprocessing: Cleaning data, handling missing values, and scaling numerical features.
 Exploratory data analysis (EDA): Visualizing data distributions and correlations between features.
+<br>
 Model selection: Trying out different regression algorithms such as Linear Regression, Decision Tree Regression, and Random Forest Regression.
+<br>
 Model evaluation: Using metrics like Mean Squared Error (MSE) to evaluate and compare model performance.
+<br>
 Hyperparameter tuning: Optimizing model parameters using techniques like Grid Search Cross Validation.
